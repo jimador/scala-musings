@@ -4,11 +4,11 @@
 
 A playground to dive into the Scala programming language
 
-**Tutorials from:**
+#### *Tutorials from:*
 * [Scala Docs] [ScalaDocs]
 * [Scala School] [ScalaSchool]
 * [Tutorials Point] [TutorialsPoint]
-* [Artima] [Artima]
+* [Artima Developer] [Artima]
 
 [ScalaDocs]: http://docs.scala-lang.org/tutorials/?_ga=1.120792526.7385158.1462321642
 [ScalaSchool]: http://twitter.github.io/scala_school/
