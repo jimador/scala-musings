@@ -4,3 +4,6 @@
 [submodule "scala-by-example"]
 	path = scala-by-example
 	url = https://github.com/jimador/scala-by-example.git
+[submodule "programming-in-scala"]
+	path = programming-in-scala
+	url = https://github.com/jimador/programming-in-scala.git
