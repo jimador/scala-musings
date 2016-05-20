@@ -1,3 +1,6 @@
 [submodule "scala-school"]
 	path = scala-school
 	url = https://github.com/jimador/scala-school.git
+[submodule "scala-by-example"]
+	path = scala-by-example
+	url = https://github.com/jimador/scala-by-example.git
