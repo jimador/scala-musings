@@ -4,7 +4,7 @@
 
 A playground to dive into the Scala programming language
 
-#### *Tutorials from:*
+#### *Tutorials, notes, and musings  from:*
 * [Scala Docs] [ScalaDocs]
 * [Scala School] [ScalaSchool]
 * [Tutorials Point] [TutorialsPoint]
