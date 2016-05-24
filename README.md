@@ -5,11 +5,11 @@
 A playground to dive into the Scala programming language
 
 #### *Tutorials, notes, and musings  from:*
-* [Scala Docs] [ScalaDocs]
-* [Scala School] [ScalaSchool]
-* [Tutorials Point] [TutorialsPoint]
-* [Programming in Scala, 1st ed] [Artima]
-* [Scala By Example] [ScalaByExample]
+* [Scala Docs] [ScalaDocs] *not done*
+* [Scala School] [ScalaSchool] *done*
+* [Tutorials Point] [TutorialsPoint] *not done*
+* [Programming in Scala, 1st ed] [Artima] *WIP*
+* [Scala By Example] [ScalaByExample] *not done*
 
 
 [ScalaDocs]: http://docs.scala-lang.org/tutorials/?_ga=1.120792526.7385158.1462321642
